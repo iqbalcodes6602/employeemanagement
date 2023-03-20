@@ -1,0 +1,17 @@
+.navbar-nav .nav-item {
+  margin-right: 10px; /* Set the margin to create space between the navbar items */
+}
+.navbarCustom{
+  margin: 20px;
+  margin-top: 5px;
+}
+.table-hover tbody tr:hover td {
+  background: #06d6a0;
+}
+.rounded-pill:hover{
+background-color: white;
+}
+.profileImage{
+width: 30px;
+height: 30px;
+}

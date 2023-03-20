@@ -6,7 +6,7 @@ const connectDB = require('./server/database/connection');
 const path = require('path');
 var fileUpload = require('express-fileupload')
 const cors = require('cors');
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 const app = express();
 app.use(fileUpload());
 app.use(cors());
